@@ -1,0 +1,3 @@
+[submodule "SubmoduleOld"]
+	path = SubmoduleOld
+	url = https://github.com/takahiroyasui/SubmoduleOld.git
